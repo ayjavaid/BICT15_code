@@ -1,0 +1,38 @@
+1. duration: continuous.
+2. src_bytes: continuous.
+3. dst_bytes: continuous.
+4. land: symbolic.
+5. wrong_fragment: continuous.
+6. urgent: continuous.
+7. hot: continuous.
+8. num_failed_logins: continuous.
+9. logged_in: symbolic.
+10.num_compromised: continuous.
+11.root_shell: continuous.
+12.su_attempted: continuous.
+13.num_root: continuous.
+14.num_file_creations: continuous.
+15.num_shells: continuous.
+16.num_access_files: continuous.
+17.num_outbound_cmds: continuous.
+18.is_host_login: symbolic.
+19.is_guest_login: symbolic.
+20.count: continuous.
+21.srv_count: continuous.
+22.serror_rate: continuous.
+23.srv_serror_rate: continuous.
+24.rerror_rate: continuous.
+25.srv_rerror_rate: continuous.
+26.same_srv_rate: continuous.
+27.diff_srv_rate: continuous.
+28.srv_diff_host_rate: continuous.
+29.dst_host_count: continuous.
+30.dst_host_srv_count: continuous.
+31.dst_host_same_srv_rate: continuous.
+32.dst_host_diff_srv_rate: continuous.
+33.dst_host_same_src_port_rate: continuous.
+34.dst_host_srv_diff_host_rate: continuous.
+35.dst_host_serror_rate: continuous.
+36.dst_host_srv_serror_rate: continuous.
+37.dst_host_rerror_rate: continuous.
+38.dst_host_srv_rerror_rate: continuous.
